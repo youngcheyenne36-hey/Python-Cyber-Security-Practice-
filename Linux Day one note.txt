@@ -1,0 +1,21 @@
+webminal login: cheyenne5680                                                                                                        
+Last login: Tue Jul 21 21:17:37 from localhost, 35.137.247.67           
+              ##############################################            
+              # webminal.org => your linux  ~ on the cloud #            
+              ##############################################            
+[cheyenne5680@webminal ~]$ mkdir cybersecurity                          
+[cheyenne5680@webminal ~]$ cd cybersecurity                             
+[cheyenne5680@webminal cybersecurity]$ touch note.txt                   
+[cheyenne5680@webminal cybersecurity]$ echo this is my first linux!     
+this is my first linux!                                                 
+[cheyenne5680@webminal cybersecurity]$ cat note.txt                     
+[cheyenne5680@webminal cybersecurity]$                                  
+Learned : 
+pwd - location
+ls - list files
+cd - change folders
+mkdir - make folder
+touch - creates file in folder
+echo - writes text in folder
+whoami - recites who i am 
+cat - reads file
